@@ -15,4 +15,4 @@
 
 :smile::smile::smile::smile::smile::smile:
 
-![이미지에 대한 설명](./images/clutch.jpeg)
+![This is clutch](./images/clutch.jpeg)
