@@ -13,11 +13,12 @@
 2. LIST2
 3. LIST3
 
-:smile::smile::smile::smile::smile::smile:
+:smile::smile::smile::smile::smile:
 
 -image
 
 ![This is clutch(시각장애자를 위한 설명)](./images/clutch.jpeg)
+
 
 -external link
 
