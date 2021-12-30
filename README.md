@@ -29,3 +29,13 @@
 [link to site](./images/clutch.jpeg)
 
 -edited from atom
+
+-소스코드 작성
+
+```c++
+#include <iostream>
+using namespace std;
+int main(){
+  cout<<"hello world!"<endl;
+}
+```
